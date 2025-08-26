@@ -15,3 +15,8 @@ npm i bootstrap@latest
 cool shortcuts
 ctr-md -> select all similar words escape with the esc button
 ctr-p searc for wrap with abbreviation - wraps code with div, etc
+
+extensions: Es7 react/redux - shortcuts to create function "RAFCE"
+
+deploy:
+npm run build
