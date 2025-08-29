@@ -11,6 +11,7 @@ npm run dev
 Local: http://localhost:5173/
 
 npm i bootstrap@latest
+npm install tailwindcss @tailwindcss/vite
 
 cool shortcuts
 ctr-md -> select all similar words escape with the esc button
